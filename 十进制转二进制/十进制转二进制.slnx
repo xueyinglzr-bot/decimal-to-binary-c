@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="十进制转二进制/十进制转二进制.vcxproj" Id="942e8344-dd73-4000-b25c-be85c64a1c88" />
+</Solution>
